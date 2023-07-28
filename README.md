@@ -1,5 +1,5 @@
 👋 OPAA! Seja bem vindo ao meu perfil do Github.
-## Sou o João Guilherme ou pode me "Schneider!
+## Sou o João Schneider ou pode me chamar de "Joãozinho"!
 
 - 🔭 Atualmente estou trabalhando na Systextil
 - 🌱 Atualmente estou aprendendo
