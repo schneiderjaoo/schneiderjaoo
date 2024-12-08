@@ -1,5 +1,7 @@
 # 🌟 João Schneider
 
+  I am a constantly evolving developer and aspiring software engineer with experience in ERP and knowledge of technologies such as Java, SQL Oracle, APEX, Node.js and JavaScript. My goal is to become a complete software engineer, integrating new knowledge into my journey. Recently, I have been exploring innovative tools such as OpenAI to expand my skills in artificial intelligence and automation. I am always looking for new challenges and learning opportunities, investing in courses and certifications to become a more capable and prepared professional to solve problems creatively and efficiently in the world of technology.
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaaoschneider/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-guilherme-schneider-da-silva-4b324324b) 
