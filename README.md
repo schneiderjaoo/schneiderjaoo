@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a constantly evolving developer and aspiring software engineer with experience in ERP and knowledge of technologies such as **Java**, **SQL Oracle**, **APEX**, **Node.js**, and **JavaScript**.  
+I am a constantly evolving developer and aspiring software engineer with experience in ERP and knowledge of technologies such as **Java**, **SQL Oracle**, **APEX**, **Node.js**, and **React**.  
 
 My goal is to become a complete software engineer, integrating new knowledge into my journey. Recently, I have been exploring innovative tools such as **OpenAI** to expand my skills in **artificial intelligence** and **automation**.  
 
