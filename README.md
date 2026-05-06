@@ -5,7 +5,7 @@
 
 ## About
 
-I am a **Staff Software Engineer** working with **enterprise ERP systems**, focused on backend and full stack development.
+I am a **Software Engineer** working with **enterprise ERP systems**, focused on backend and full stack development.
 
 My role goes beyond implementation: I work with **system design, technical decisions, code quality, automation**, and long-term maintainability of critical applications.
 
@@ -15,7 +15,7 @@ I have daily hands-on experience with **Java**, **Oracle**, and **business-criti
 
 ## Current Role & Responsibilities
 
-As a **Staff Engineer**, I am responsible for:
+As a **Engineer**, I am responsible for:
 
 - Designing and evolving **enterprise applications**
 - Working directly with **complex business rules**
