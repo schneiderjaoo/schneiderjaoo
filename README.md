@@ -1,99 +1,149 @@
-# João Schneider  
-### Staff Software Engineer | Backend & Full Stack | ERP Systems
+# João Schneider
+### Software Engineer | Backend | DevOps | CI/CD | Architecture
 
 ---
 
 ## About
 
-I am a **Software Engineer** working with **enterprise ERP systems**, focused on backend and full stack development.
+I am a **Software Engineer** working with **enterprise ERP systems**, focused on backend engineering, DevOps, automation, and software architecture.
 
-My role goes beyond implementation: I work with **system design, technical decisions, code quality, automation**, and long-term maintainability of critical applications.
+My work goes beyond application development. I contribute to **technical decisions, system design, code quality, CI/CD, infrastructure, development workflows, and the evolution of critical legacy systems**.
 
-I have daily hands-on experience with **Java**, **Oracle**, and **business-critical systems**, while continuously expanding my stack to modern backend, frontend, cloud, and AI-assisted development.
+I have strong hands-on experience with **Java, Spring Boot, Oracle, Git, Jenkins, Docker, and enterprise applications**, while continuously expanding my expertise in **cloud infrastructure, DevOps, and modern software architecture**.
 
 ---
 
-## Current Role & Responsibilities
+## Current Role
 
-As a **Engineer**, I am responsible for:
+I work in an engineering role that combines **software development, technical leadership, and DevOps responsibilities**.
 
-- Designing and evolving **enterprise applications**
-- Working directly with **complex business rules**
-- Supporting and reviewing other developers’ code
-- Making technical decisions that affect long-term system stability
-- Improving legacy systems incrementally
-- Automating processes and development workflows
-- Ensuring code quality, readability, and maintainability
+My main responsibilities include:
+
+- Developing and evolving **enterprise applications**
+- Implementing complex **business rules**
+- Designing and reviewing technical solutions
+- Performing **code reviews** and supporting other developers
+- Maintaining and improving **CI/CD pipelines**
+- Automating development and operational workflows
+- Working with **GitHub, Jenkins, Docker, and cloud infrastructure**
+- Supporting critical production incidents and complex technical issues
+- Improving legacy systems through incremental modernization
+- Creating documentation, development standards, and internal tooling
+- Contributing to architectural and technology decisions
 
 ---
 
 ## Technical Stack
 
 ### Backend
+
 - Java
 - Spring Boot
-- Oracle APEX
-- Node.js
 - REST APIs
-- SQL (Oracle)
+- Node.js
+- SQL
+- Oracle APEX
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
+
+- React
+- TypeScript
+- JavaScript
+- Vite
 - HTML & CSS
 
 ### Databases
+
 - Oracle Database
 - MongoDB
 
-### DevOps & Tooling
-- Git (GitHub, GitLab, Bitbucket)
-- Jenkins (CI/CD)
-- Maven & Ant
+### DevOps & Infrastructure
 
-### Cloud (Active Learning)
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+- Jenkins
+- Docker
+- CI/CD
+- Linux
+- Maven
+- Ant
+
+### Cloud
+
+- Oracle Cloud Infrastructure (OCI)
 - AWS
-- Azure
+- Microsoft Azure
 - Google Cloud Platform
+
+---
+
+## Software Engineering
+
+I am particularly interested in the intersection between **software development and infrastructure**, with a focus on:
+
+- Software architecture
+- CI/CD
+- DevOps
+- Automation
+- Developer experience
+- Legacy modernization
+- Code quality
+- Release engineering
+- Cloud infrastructure
+- Observability and reliability
+
+My approach is to solve problems with **simple, maintainable solutions**, while considering their impact on development, deployment, and long-term system maintenance.
 
 ---
 
 ## AI & Automation
 
-I use AI tools **practically and responsibly** to improve productivity and code quality, including:
+I use AI as an engineering tool to improve development workflows and productivity, including:
 
-- Code review and refactoring assistance
+- Code analysis and refactoring
 - Architectural exploration
-- Documentation and analysis
-- Automation of repetitive tasks
+- Documentation
+- Development automation
+- Technical research
+- Release and project workflows
+
+I am particularly interested in applying AI to **software engineering processes**, rather than treating it only as a coding assistant.
 
 ---
 
-## Engineering Approach
+## Engineering Principles
 
-- Prefer **clear and maintainable code**
-- Comfortable working with **legacy and critical systems**
-- Focus on **long-term impact**, not quick fixes
-- Automation over manual work
-- Strong sense of **ownership and responsibility**
+- **Automation over repetitive manual work**
+- **Simple solutions over unnecessary complexity**
+- **Maintainability over short-term fixes**
+- **Quality built into the development process**
+- **Ownership from development to deployment**
+- **Continuous improvement of legacy systems**
+- **Infrastructure and software working together**
 
 ---
 
-## Career Objective
+## Career Direction
 
-I am open to **freelance and full-time opportunities** where I can contribute as:
+I am interested in opportunities involving:
 
-- Staff / Senior Software Engineer
-- Backend Engineer (Java)
-- Full Stack Engineer
+- Software Engineering
+- Backend Engineering with Java
+- DevOps / Cloud Engineering
+- CI/CD and Release Engineering
+- Software Architecture
+- Technical Leadership
 
-Looking for environments that value **engineering quality, ownership, and real-world impact**.
+My long-term goal is to grow at the intersection of **software engineering, DevOps, cloud infrastructure, and architecture**, while continuing to remain hands-on with technology.
 
 ---
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-guilherme-schneider-da-silva-4b324324b)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaaoschneider/)
 
 ---
@@ -101,5 +151,7 @@ Looking for environments that value **engineering quality, ownership, and real-w
 ## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schneiderjaoo&theme=dark&hide_border=true&count_private=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=schneiderjaoo&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schneiderjaoo&theme=dark&hide_border=true&layout=compact)
