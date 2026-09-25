@@ -1,157 +1,53 @@
-# João Schneider
-### Software Engineer | Backend | DevOps | CI/CD | Architecture
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=600&height=60&lines=Jo%C3%A3o+Schneider;Software+Engineer;Backend+%C2%B7+DevOps+%C2%B7+Architecture" alt="João Schneider" />
+
+**Backend (Java / Spring Boot) · Architecture · CI/CD · Tech Lead**
+
+[![Website](https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=34D399)](https://landing-page.schneiderjoao.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-guilherme-schneider-da-silva-4b324324b)
+[![Email](https://img.shields.io/badge/me@schneiderjoao.com.br-34D399?style=for-the-badge&logo=gmail&logoColor=0b0f14)](mailto:me@schneiderjoao.com.br)
+
+</div>
 
 ---
 
-## About
+### 👋 About
 
-I am a **Software Engineer** working with **enterprise ERP systems**, focused on backend engineering, DevOps, automation, and software architecture.
+Software Engineer working on **enterprise ERP systems** — hands-on with the code, and acting as the **internal technical reference** for architecture decisions, CI/CD and critical production issues.
 
-My work goes beyond application development. I contribute to **technical decisions, system design, code quality, CI/CD, infrastructure, development workflows, and the evolution of critical legacy systems**.
+I modernize legacy systems **without disrupting operations**, mentor developers, and connect development, infrastructure and delivery into something reliable.
 
-I have strong hands-on experience with **Java, Spring Boot, Oracle, Git, Jenkins, Docker, and enterprise applications**, while continuously expanding my expertise in **cloud infrastructure, DevOps, and modern software architecture**.
+### 🛠️ What I do
 
----
+| | |
+|---|---|
+| 🏗️ **Architecture** | Define and standardize Spring Boot architectures across projects |
+| ⚙️ **CI/CD** | Build and evolve Jenkins pipelines; prevent build, release and prod failures |
+| 🔥 **Production** | Investigate and solve complex issues in critical environments |
+| 🔄 **Modernization** | Gradual adoption of Node.js, React and TypeScript on legacy stacks |
+| 👥 **Leadership** | Code reviews, mentoring, and the bridge between tech and stakeholders |
+| 🤖 **AI in engineering** | Applying AI to refactoring, docs, automation and release workflows |
 
-## Current Role
+### 🧰 Stack
 
-I work in an engineering role that combines **software development, technical leadership, and DevOps responsibilities**.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,ts,react,vite&theme=dark" alt="Languages & frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,jenkins,docker,linux&theme=dark" alt="DevOps" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,aws,azure,gcp&theme=dark" alt="Data & cloud" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="28" />
+  <img src="https://img.shields.io/badge/OCI-C74634?style=flat-square&logo=oracle&logoColor=white" alt="OCI" height="28" />
+</p>
 
-My main responsibilities include:
+### 🎯 Currently focused on
 
-- Developing and evolving **enterprise applications**
-- Implementing complex **business rules**
-- Designing and reviewing technical solutions
-- Performing **code reviews** and supporting other developers
-- Maintaining and improving **CI/CD pipelines**
-- Automating development and operational workflows
-- Working with **GitHub, Jenkins, Docker, and cloud infrastructure**
-- Supporting critical production incidents and complex technical issues
-- Improving legacy systems through incremental modernization
-- Creating documentation, development standards, and internal tooling
-- Contributing to architectural and technology decisions
-
----
-
-## Technical Stack
-
-### Backend
-
-- Java
-- Spring Boot
-- REST APIs
-- Node.js
-- SQL
-- Oracle APEX
-
-### Frontend
-
-- React
-- TypeScript
-- JavaScript
-- Vite
-- HTML & CSS
-
-### Databases
-
-- Oracle Database
-- MongoDB
-
-### DevOps & Infrastructure
-
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-- Jenkins
-- Docker
-- CI/CD
-- Linux
-- Maven
-- Ant
-
-### Cloud
-
-- Oracle Cloud Infrastructure (OCI)
-- AWS
-- Microsoft Azure
-- Google Cloud Platform
+`DevOps` · `Cloud infrastructure` · `Release engineering` · `Software architecture` · `Technical leadership`
 
 ---
 
-## Software Engineering
+<div align="center">
 
-I am particularly interested in the intersection between **software development and infrastructure**, with a focus on:
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=schneiderjaoo&show_icons=true&count_private=true&hide_border=true&bg_color=0b0f14&title_color=34D399&icon_color=34D399&text_color=e6edf3" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schneiderjaoo&layout=compact&hide_border=true&bg_color=0b0f14&title_color=34D399&text_color=e6edf3" alt="Top languages" />
 
-- Software architecture
-- CI/CD
-- DevOps
-- Automation
-- Developer experience
-- Legacy modernization
-- Code quality
-- Release engineering
-- Cloud infrastructure
-- Observability and reliability
-
-My approach is to solve problems with **simple, maintainable solutions**, while considering their impact on development, deployment, and long-term system maintenance.
-
----
-
-## AI & Automation
-
-I use AI as an engineering tool to improve development workflows and productivity, including:
-
-- Code analysis and refactoring
-- Architectural exploration
-- Documentation
-- Development automation
-- Technical research
-- Release and project workflows
-
-I am particularly interested in applying AI to **software engineering processes**, rather than treating it only as a coding assistant.
-
----
-
-## Engineering Principles
-
-- **Automation over repetitive manual work**
-- **Simple solutions over unnecessary complexity**
-- **Maintainability over short-term fixes**
-- **Quality built into the development process**
-- **Ownership from development to deployment**
-- **Continuous improvement of legacy systems**
-- **Infrastructure and software working together**
-
----
-
-## Career Direction
-
-I am interested in opportunities involving:
-
-- Software Engineering
-- Backend Engineering with Java
-- DevOps / Cloud Engineering
-- CI/CD and Release Engineering
-- Software Architecture
-- Technical Leadership
-
-My long-term goal is to grow at the intersection of **software engineering, DevOps, cloud infrastructure, and architecture**, while continuing to remain hands-on with technology.
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-guilherme-schneider-da-silva-4b324324b)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaaoschneider/)
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schneiderjaoo&theme=dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=schneiderjaoo&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schneiderjaoo&theme=dark&hide_border=true&layout=compact)
+</div>
