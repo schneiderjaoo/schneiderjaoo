@@ -47,7 +47,9 @@ I modernize legacy systems **without disrupting operations**, mentor developers,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=schneiderjaoo&show_icons=true&count_private=true&hide_border=true&bg_color=0b0f14&title_color=34D399&icon_color=34D399&text_color=e6edf3" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schneiderjaoo&layout=compact&hide_border=true&bg_color=0b0f14&title_color=34D399&text_color=e6edf3" alt="Top languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schneiderjaoo&theme=github_dark" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schneiderjaoo&theme=github_dark" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=schneiderjaoo&theme=dark&hide_border=true&background=0b0f14&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="GitHub streak" />
 
 </div>
