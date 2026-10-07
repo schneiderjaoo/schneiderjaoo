@@ -35,8 +35,8 @@ I modernize legacy systems **without disrupting operations**, mentor developers,
   <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,ts,react,vite&theme=dark" alt="Languages & frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,jenkins,docker,linux&theme=dark" alt="DevOps" /><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,aws,azure,gcp&theme=dark" alt="Data & cloud" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="28" />
-  <img src="https://img.shields.io/badge/OCI-C74634?style=flat-square&logo=oracle&logoColor=white" alt="OCI" height="28" />
+  <img src="./assets/oracle.svg" alt="Oracle" height="48" />
+  <img src="./assets/oci.svg" alt="OCI" height="48" />
 </p>
 
 ### 🎯 Currently focused on
