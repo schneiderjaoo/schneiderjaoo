@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=600&height=60&lines=Jo%C3%A3o+Schneider;Software+Engineer;Backend+%C2%B7+DevOps+%C2%B7+Architecture" alt="João Schneider" />
 
-**Backend (Java / Spring Boot) · Architecture · CI/CD · Tech Lead**
+**Backend (Java / Spring Boot) · Arquitetura · CI/CD · Tech Lead**
 
 [![Website](https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=34D399)](https://landing-page.schneiderjoao.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-guilherme-schneider-da-silva-4b324324b)
@@ -12,22 +12,35 @@
 
 ---
 
-### 👋 About
+### 👋 Sobre | About
 
-Software Engineer working on **enterprise ERP systems** — hands-on with the code, and acting as the **internal technical reference** for architecture decisions, CI/CD and critical production issues.
+🇧🇷 Engenheiro de software em sistemas **ERP corporativos**: mão na massa no código e referência técnica interna em decisões de arquitetura, CI/CD e problemas críticos de produção. Moderniza sistemas legados **sem parar a operação**, orienta outros desenvolvedores e conecta desenvolvimento, infraestrutura e entrega.
 
-I modernize legacy systems **without disrupting operations**, mentor developers, and connect development, infrastructure and delivery into something reliable.
+🇺🇸 Software Engineer on **enterprise ERP systems**: hands-on with the code and the internal technical reference for architecture decisions, CI/CD and critical production issues. I modernize legacy systems **without disrupting operations**, mentor developers and connect development, infrastructure and delivery.
 
-### 🛠️ What I do
+### 💼 Trabalhe comigo | Work with me
+
+Aberto a **projetos pontuais de freelance** | Open to **freelance projects**:
 
 | | |
 |---|---|
-| 🏗️ **Architecture** | Define and standardize Spring Boot architectures across projects |
-| ⚙️ **CI/CD** | Build and evolve Jenkins pipelines; prevent build, release and prod failures |
-| 🔥 **Production** | Investigate and solve complex issues in critical environments |
-| 🔄 **Modernization** | Gradual adoption of Node.js, React and TypeScript on legacy stacks |
-| 👥 **Leadership** | Code reviews, mentoring, and the bridge between tech and stakeholders |
-| 🤖 **AI in engineering** | Applying AI to refactoring, docs, automation and release workflows |
+| 🔌 **APIs e integrações** | Java / Spring Boot e Node.js: desenho, implementação e documentação |
+| ⚙️ **CI/CD** | Pipelines Jenkins e Docker; menos falhas de build, release e produção |
+| 🔄 **Modernização** | Adoção gradual de Node.js, React e TypeScript em stacks legadas |
+| 🔎 **Code review e consultoria** | Revisão de código, padrões de arquitetura e mentoria técnica |
+| 🤖 **IA na engenharia** | Refatoração, documentação, automação e fluxos de release com IA |
+
+📩 **me@schneiderjoao.com.br**: conte o problema e eu respondo com escopo, prazo e valor.
+
+### 🛠️ O que faço no dia a dia | What I do
+
+| | |
+|---|---|
+| 🏗️ **Arquitetura** | Defino e padronizo arquiteturas Spring Boot entre projetos |
+| ⚙️ **CI/CD** | Construo e evoluo pipelines Jenkins; previno falhas de build, release e produção |
+| 🔥 **Produção** | Investigo e resolvo problemas complexos em ambientes críticos |
+| 🔄 **Modernização** | Adoção gradual de Node.js, React e TypeScript em stacks legadas |
+| 👥 **Liderança** | Code reviews, mentoria e ponte entre tecnologia e stakeholders |
 
 ### 🧰 Stack
 
@@ -39,17 +52,6 @@ I modernize legacy systems **without disrupting operations**, mentor developers,
   <img src="./assets/oci.svg" alt="OCI" height="48" />
 </p>
 
-### 🎯 Currently focused on
+### 🎯 Foco atual | Currently focused on
 
 `DevOps` · `Cloud infrastructure` · `Release engineering` · `Software architecture` · `Technical leadership`
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schneiderjaoo&theme=github_dark" alt="GitHub stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schneiderjaoo&theme=github_dark" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=schneiderjaoo&theme=dark&hide_border=true&background=0b0f14&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="GitHub streak" />
-
-</div>
