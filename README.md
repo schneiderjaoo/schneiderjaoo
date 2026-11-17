@@ -12,11 +12,11 @@
 
 ---
 
-### 👋 About
+### 👋 Sobre | About
 
 Software Engineer working on **enterprise ERP systems** — hands-on with the code, and the **internal technical reference** for architecture decisions, CI/CD and critical production issues.
 
-I modernize legacy systems **without disrupting operations**, mentor developers, and connect development, infrastructure and delivery into something reliable.
+🇺🇸 Software Engineer on **enterprise ERP systems**: hands-on with the code and the internal technical reference for architecture decisions, CI/CD and critical production issues. I modernize legacy systems **without disrupting operations**, mentor developers and connect development, infrastructure and delivery.
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="40" align="right" alt="Pikachu" />
 
@@ -43,7 +43,7 @@ I modernize legacy systems **without disrupting operations**, mentor developers,
   <img src="./assets/oci.svg" alt="OCI" height="48" />
 </p>
 
-### 🎯 Currently focused on
+### 🎯 Foco atual | Currently focused on
 
 `DevOps` · `Cloud infrastructure` · `Release engineering` · `Software architecture` · `Technical leadership`
 
