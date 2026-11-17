@@ -1,23 +1,26 @@
 name: Generate Datas
 
 on:
-  schedule: 
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Snake Animation (tall grass palette, yellow snake)
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: schneiderjaoo
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23facc15&color_dots=%231f2937,%23166534,%2316a34a,%2322c55e,%2334d399
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
