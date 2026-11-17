@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
@@ -13,12 +15,12 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation (tall grass palette, yellow snake)
+      # Snake Animation
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: schneiderjaoo
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23facc15&color_dots=%231f2937,%23166534,%2316a34a,%2322c55e,%2334d399
+            dist/github-contribution-grid-snake.svg?color_snake=#34D399&color_dots=#1f2937,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

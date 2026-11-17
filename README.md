@@ -31,8 +31,6 @@ Software Engineer working on **enterprise ERP systems** — hands-on with the co
 | 👥 **Leadership** | Code reviews, mentoring, and the bridge between tech and stakeholders |
 | 🤖 **AI in engineering** | Applying AI to refactoring, docs, automation and release workflows |
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" height="40" align="left" alt="Squirtle" />
-
 ### 🧰 Stack
 
 <p align="left">
@@ -51,12 +49,7 @@ Software Engineer working on **enterprise ERP systems** — hands-on with the co
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/schneiderjaoo/schneiderjaoo/output/github-contribution-grid-snake.svg" alt="Contribution snake in tall grass" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schneiderjaoo&theme=github_dark" alt="GitHub stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schneiderjaoo&theme=github_dark" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=schneiderjaoo&theme=dark&hide_border=true&background=0b0f14&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=34D399&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/schneiderjaoo/schneiderjaoo/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 
 <sub>Gotta commit 'em all.</sub>
 
